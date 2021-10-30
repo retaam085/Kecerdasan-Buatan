@@ -1,8 +1,8 @@
-#Dataset 
+# Dataset
 Di dalam project ini kami membuat dataset yang terdiri dari gambar daun lidah buaya dan kemangi.
-#Data 
+# Data
 Terdapat 2 data yang ada di dalam project ini, yaitu gambar daun lidah buaya dan daun kemangi, yang nantinya akan menjadi bahan utama dalam project ini.
-#Ketentuan 
+# Ketentuan 
 Adapun ketentuan dalam gambar-gambar yaitu :
 1. Image daun di ambil menggunakan kamera smartphone samsung A50 dengan angke horizontal, vertikal dan diagonal
 2. Backgroundnya berwarnah putih
